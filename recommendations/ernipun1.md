@@ -8,3 +8,5 @@
 ### Things to Do
 
 - San Diego Zoo
+
+Changing my partner's code 
