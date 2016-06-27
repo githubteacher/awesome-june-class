@@ -13,3 +13,5 @@
 ## fourth line added which is requested by Bob
 
 ## Fifth line added in Git local repository
+
+## Sixth line added after Bob's change made from online
