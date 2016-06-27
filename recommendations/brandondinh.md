@@ -6,3 +6,4 @@
 ### Things to do
 - surfing
 - biking
+-running too
