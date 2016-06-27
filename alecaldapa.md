@@ -4,6 +4,7 @@
 
     - Genkiyaki
     - I Love Sushi
+    - Marri's Pizza & Pasta
 
 ### Things to do
 
