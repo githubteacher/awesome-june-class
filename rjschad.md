@@ -10,3 +10,6 @@
 - kayak
 
 ### Things to do
+- go to the beach
+- ride motocross
+
