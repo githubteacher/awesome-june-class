@@ -2,4 +2,9 @@
 
 ### Places to eat in San Diego
 
+- Pattaya Thai
+- Delhi Kitchen
+
 ### Things to Do
+
+- Sea World
