@@ -9,4 +9,7 @@
 - Spices
 - Chipotle
 
+#resolved conflict
 Added a line to my file
+
+- Capri Blu
