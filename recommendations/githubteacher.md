@@ -6,3 +6,5 @@
 - Cooley's
 
 ### Things to Do
+
+- Go kayaking on the Cape Fear River
