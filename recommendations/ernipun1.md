@@ -7,4 +7,4 @@
 
 ### Things to Do
 
-- Sea World(No more Shamu show)
+- San Diego Zoo
