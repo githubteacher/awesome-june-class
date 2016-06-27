@@ -15,4 +15,9 @@
 -Balboa Park
 -La Jolla
 -Surfing
+
 -Hiking 
+
+
+Those look like some cool things to do, will try it out.
+
