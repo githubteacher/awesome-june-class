@@ -4,7 +4,7 @@
 
     - Genkiyaki
     - I Love Sushi
-any gool place for pizza?
+any good place for pizza?
 
 ### Things to do
 
