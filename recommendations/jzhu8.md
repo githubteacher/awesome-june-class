@@ -5,6 +5,8 @@
 - Phil's BBQ
 - In N Out
 - Jersey Mike's
+- Hodad's
+- Sushi Ota
 
 ###Things to Do
 
@@ -13,3 +15,4 @@
 -Balboa Park
 -La Jolla
 -Surfing
+-Hiking 
