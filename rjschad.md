@@ -7,5 +7,6 @@
 - Aviator's Smokehouse
 - Cooleys
 - In-n-out
+- kayak
 
 ### Things to do
