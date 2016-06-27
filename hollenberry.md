@@ -2,7 +2,8 @@
 
 ### Places to Eat
 * City Tacos
-* Sushi n' Joy 
+* Sushi n' Joy
 
 ### Things to Do
 * Paddleboarding
+* Zoo
