@@ -9,3 +9,5 @@
 
 - San Diego Zoo
 - La Jolla Beach
+
+Changing my partner's code 
