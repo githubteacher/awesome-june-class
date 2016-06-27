@@ -7,4 +7,7 @@
 
 ### Things to Do
 
-- Sea World(No more Shamu show)
+- San Diego Zoo
+- La Jolla Beach
+
+Changing my partner's code 
