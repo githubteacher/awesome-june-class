@@ -3,6 +3,9 @@
 ### Places to eat
 
     - Genkiyaki
-    - I Love Sushi 
+    - I Love Sushi
 
 ### Things to do
+
+    - Golf at Heartwell Golf Course
+    - Bowl at Cal Bowl
