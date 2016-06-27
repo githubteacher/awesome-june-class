@@ -14,4 +14,5 @@
 
 ## Fifth line added in Git local repository
 
-## Sixth line added after Bob's change made from online
+Bob was here
+## Sixth line added after Bob's chage
