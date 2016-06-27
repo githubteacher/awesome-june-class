@@ -6,3 +6,7 @@
 - In N Out
 
 ###Things to Do
+
+-Seaworld
+-Zoo
+-Balboa Park
