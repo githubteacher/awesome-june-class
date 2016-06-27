@@ -10,4 +10,6 @@
 
 ## third added line
 
-## fourth lined added which is requested by Bob
+## fourth line added which is requested by Bob
+
+## Fifth line added in Git local repository
