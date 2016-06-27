@@ -10,3 +10,4 @@
 - kayak
 
 ### Things to do
+- Go to the movies
