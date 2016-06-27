@@ -1,4 +1,5 @@
 ### Hometown: Ridgecrest, CA
+### the middle of nowhere
 
 
 ### Places to eat
