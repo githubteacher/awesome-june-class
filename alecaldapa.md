@@ -2,6 +2,7 @@
 
 ### Places to eat
 
-    - Genkiyaki 
+    - Genkiyaki
+    - I Love Sushi 
 
 ### Things to do
