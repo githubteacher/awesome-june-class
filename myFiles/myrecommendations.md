@@ -2,3 +2,6 @@
 
 
 # Places to eat
+- Stirfresh
+- Spices
+- Chipotle
