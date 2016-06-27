@@ -1,5 +1,5 @@
 ## Fuquay Varina, NC
 
-### Places to Eat
+### Places to Eat in Fuquay
 
 ### Things to Do
