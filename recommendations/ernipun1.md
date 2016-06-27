@@ -8,3 +8,4 @@
 ### Things to Do
 
 - San Diego Zoo
+- La Jolla Beach
