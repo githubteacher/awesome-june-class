@@ -1,7 +1,10 @@
 ### Hometown: Ridgecrest, CA
 
 
-### Place to eat
+### Places to eat
+
+- Aviator's Smokehouse
+- Cooleys
 
 
 ### Things to do
