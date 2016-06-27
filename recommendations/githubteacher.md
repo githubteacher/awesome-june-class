@@ -1,6 +1,6 @@
 ## Fuquay Varina, NC
 
-### Places to Eat in Fuquay
+### Places to Eat
 
 - Aviator's Smokehouse
 - Cooley's
