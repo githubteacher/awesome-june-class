@@ -4,3 +4,5 @@
 - phil's bbq
 
 ### Things to do
+- surfing
+- biking
