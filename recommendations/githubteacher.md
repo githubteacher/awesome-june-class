@@ -8,3 +8,4 @@
 ### Things to Do
 
 - Go kayaking on the Cape Fear River
+- Or go hiking at Raven Rock :wink:
