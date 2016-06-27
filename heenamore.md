@@ -7,6 +7,10 @@
 
 ### Things to do
 
+hike
+goto beach
+
+
 modify files
 
 Hello
