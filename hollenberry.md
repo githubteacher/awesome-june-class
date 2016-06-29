@@ -7,3 +7,4 @@
 ### Things to Do
 * Paddleboarding
 * Zoo
+* Coronado
